@@ -1,14 +1,3 @@
-// fn main() {
-//     println!("Hello, world!");
-// }
-// byteorder ="^1.0.0"
-// enum_primitive ="^0.1.0"
-// num-iter ="^0.1.32"
-// num-rational ="^0.1.32"
-// num-traits ="^0.1.32"
-// glob ="^0.2.10"
-// num-complex ="^0.1.32"
-
 extern crate image;
 extern crate num;
 
